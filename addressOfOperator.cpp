@@ -7,7 +7,7 @@ int main() {
     cout<<"Address of x: "<<&x<<endl;
     
     // *Limitations
-    // We can use this method to print address in all datat type instead of char.
+    // We can use this method to print address in all data type instead of char.
     //Let's see what happended in char data type;
     char y = 'B';
     /*
